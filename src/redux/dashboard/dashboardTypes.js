@@ -1,0 +1,2 @@
+export const FETCH_DATE_RANGE = "FETCH_DATE_RANGE";
+export const FETCH_CHARTS_DATA = "FETCH_CHARTS_DATA";
